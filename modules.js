@@ -1,4 +1,4 @@
-v\const names = require("./names");
+const names = require("./names");
 const sayHi = require("./utils");
 
 sayHi(names.john);
